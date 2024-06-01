@@ -1,3 +1,4 @@
+-- File located in the Shinigami Selector NPC
 local clickDetector = script.Parent:FindFirstChild("ClickDetector")
 
 local function onPlayerClicked(player)
