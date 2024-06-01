@@ -1,3 +1,4 @@
+-- File located in StarterPlayer --> StarterPlayerScript
 local replicatedStorage = game:GetService("ReplicatedStorage")
 local classSelectionEvent = replicatedStorage:WaitForChild("ClassSelectionEvent")
 
