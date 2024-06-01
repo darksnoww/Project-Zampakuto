@@ -1,3 +1,4 @@
+-- File located in ServerScriptService 
 local classSelectionEvent = game.ReplicatedStorage:FindFirstChild("ClassSelectionEvent")
 
 local function updateLeaderboard(player)
