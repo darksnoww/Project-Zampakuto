@@ -1,1 +1,7 @@
-
+1. Create a ScreenGui in StarterGui , and rename it StatsGui.
+2. Create 6 TextLabel to list all of the stats on the screen.
+3. Rename them by their name ( example : energyLabel , healthLabel, .. ).
+4. Create a LocalScript in the ScreenGui , and rename it StatsGuiUpdater.
+5. Add the "StatsGuiUpdater.lua" code into it.
+6. Create a "StatManager" script in ServerScriptService.
+7. Add the "StatManager.lua" code into it.
