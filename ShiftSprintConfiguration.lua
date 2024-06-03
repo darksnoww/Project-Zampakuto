@@ -1,3 +1,4 @@
+-- Put the ModuleScript into ReplicatedStorage
 local Configuration = {}
 
 Configuration.RunKey = Enum.KeyCode.LeftShift
